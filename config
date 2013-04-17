@@ -3,6 +3,8 @@
      "com.tasks.mytask": {
        "title": "My Task",
        "type": "url",
+       "desc": "My Task Description",
+       "icon": "icons/icon_{0}.png",
        "url": "3rdparty/task/task.cgi",
        "allUsers": true
       }
