@@ -1,0 +1,10 @@
+{
+   ".url": {
+     "com.tasks.mytask": {
+       "title": "My Task",
+       "type": "url",
+       "url": "3rdparty/task/task.cgi",
+       "allUsers": true
+      }
+    }
+}
